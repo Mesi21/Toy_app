@@ -22,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-##Contributor:
-	[Molnar Emese](https://github.com/Mesi21)
